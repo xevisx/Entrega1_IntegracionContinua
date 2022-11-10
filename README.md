@@ -11,5 +11,6 @@ MySQL
 HTML
 CSS
 Javascript
+Docker
 
 **Aplicaciones Requeridas**
